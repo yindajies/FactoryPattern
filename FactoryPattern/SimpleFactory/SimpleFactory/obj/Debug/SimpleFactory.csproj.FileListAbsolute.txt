@@ -1,0 +1,7 @@
+D:\VSProject\ThreeFactory\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+D:\VSProject\ThreeFactory\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe
+D:\VSProject\ThreeFactory\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.pdb
+D:\VSProject\ThreeFactory\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.csproj.CoreCompileInputs.cache
+D:\VSProject\ThreeFactory\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+D:\VSProject\ThreeFactory\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb
+D:\VSProject\ThreeFactory\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache

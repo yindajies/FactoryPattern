@@ -1,0 +1,6 @@
+D:\VSProject\ThreeFactory\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+D:\VSProject\ThreeFactory\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+D:\VSProject\ThreeFactory\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+D:\VSProject\ThreeFactory\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\VSProject\ThreeFactory\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+D:\VSProject\ThreeFactory\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
