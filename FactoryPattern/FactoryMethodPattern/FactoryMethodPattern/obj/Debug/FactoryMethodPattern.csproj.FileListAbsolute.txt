@@ -1,7 +1,0 @@
-D:\VSProject\ThreeFactory\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
-D:\VSProject\ThreeFactory\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
-D:\VSProject\ThreeFactory\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
-D:\VSProject\ThreeFactory\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojResolveAssemblyReference.cache
-D:\VSProject\ThreeFactory\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
-D:\VSProject\ThreeFactory\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
-D:\VSProject\ThreeFactory\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
